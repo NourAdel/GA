@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1539719081 source:d:\college\genetic\ga_ass1\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<time.h>
+	<utility>
+
